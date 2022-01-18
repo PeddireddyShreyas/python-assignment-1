@@ -1,0 +1,6 @@
+print("enter firstname:")
+firstname = input()
+print("enter lastname:")
+lastname = input()
+print("---------------------")
+print(lastname+" "+firstname)
